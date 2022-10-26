@@ -1,0 +1,9 @@
+per1 = 123
+per2 = 456
+per3 = 3.21
+per4 = 1.236
+per5 = "Hi, Barbara!"
+per6 = "Am I doing everything right?"
+per7 = True
+per8 = False
+per9 = None
